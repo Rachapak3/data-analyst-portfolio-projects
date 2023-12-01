@@ -13,4 +13,4 @@ I learn a  lot stuff related to data science skille this bootcamp
 - python programming
 - Essential python for Data Analyst
 - dashboard
-  
+- linkin https://www.linkedin.com/in/rachapak-danpiboonphon-09a151270/
